@@ -1,4 +1,0 @@
-﻿Column1;age;job;marital;education;default;housing;loan;contact;duration;campaign;pdays;previous;poutcome;emp.var.rate;cons.price.idx;cons.conf.idx;euribor3m;nr.employed;y;date;latitude;longitude;id_
-0;;housemaid;MARRIED;basic.4y;0;0;0;telephone;261;1;999;0;NONEXISTENT;11;93,994;-36,4;4,857;5191;no;02/08/2019;41495;-71233;089b39d8-e4d0-461b-87d4-814d71e0e079
-1;570;services;MARRIED;high.school;;0;0;telephone;149;1;999;0;NONEXISTENT;11;93,994;-36,4;;5191;no;14/09/2016;34601;-83923;e9d37224-cb6f-4942-98d7-46672963d097
-2;370;services;MARRIED;high.school;0;10;0;telephone;226;1;999;0;NONEXISTENT;11;93,994;-36,4;4,857;5191;no;15/02/2019;34939;-94847;3f9f49b5-e410-4948-bf6e-f9244f04918b
